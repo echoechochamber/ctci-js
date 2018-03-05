@@ -1,0 +1,17 @@
+{
+  "name": "ctci-practice",
+  "version": "1.0.0",
+  "description": "This is me working through the Cracking the Coding Interview book in Javascript",
+  "main": "index.js",
+  "author": "AK Williams",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^2.7.2"
+  }
+}
